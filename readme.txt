@@ -1,2 +1,2 @@
-I am shiqishi
+I am shiqishi, and start learning git
 Git is free software
